@@ -11,4 +11,5 @@ Usage
 
 2. Run it. 
 
-3.![image](https://user-images.githubusercontent.com/48229932/144209100-b3a9930a-798c-4d59-aa98-fea728010dac.png). Take the URL and use that URL in UptimeRobot to ping it every 30mins or so. Replit says it will deactivate the program if inactive for 1 hour. Create an account for UptimeRobot(Its free). 
+3.![image](https://user-images.githubusercontent.com/48229932/144209640-07bf1638-f2fb-4b44-a3bf-c38ca5813a94.png)
+Take the URL and use that URL in UptimeRobot to ping it every 30mins or so. Replit says it will deactivate the program if inactive for 1 hour. Create an account for UptimeRobot(Its free). 

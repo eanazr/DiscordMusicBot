@@ -13,4 +13,4 @@ for i in range(len(cogs)):
     
 keep_alive.keep_alive()
 
-client.run("YourDiscordToken")
+client.run("YourDiscordTokenHere")

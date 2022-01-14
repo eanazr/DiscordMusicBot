@@ -5,7 +5,7 @@ import music
 
 cogs = [music]
 
-client = commands.Bot(command_prefix='!',
+client = commands.Bot(command_prefix='$',
 intents = discord.Intents.all())
 
 for i in range(len(cogs)):
@@ -13,4 +13,4 @@ for i in range(len(cogs)):
     
 keep_alive.keep_alive()
 
-client.run("YourDiscordToken")
+client.run("YourDiscordTokenHere")
